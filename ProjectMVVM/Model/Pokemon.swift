@@ -2,7 +2,7 @@
 //  Pokemon.swift
 //  ProjectMVVM
 //
-//  Created by MAC17 on 23/04/22.
+//  Created by Alex Ramos on 23/04/22.
 //
 
 import Foundation
